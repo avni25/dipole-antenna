@@ -1,4 +1,4 @@
-# dipole-antenna
+# dipole-antenna (CST Studio)
 
 Center Freq:  1 GHz
 BW:           150 MHz
